@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hey there! Welcome to my GitHub! 👋 I'm Fritz, a passionate student exploring the world of programming and technology. Here, you'll find my projects as I learn and grow in this exciting field. Let's connect, learn together, and have fun coding! 💻✨
+"Hey there! Welcome to my GitHub! 👋 I'm Fritz, a passionate student exploring the world of technology. Here, you'll find my projects as I learn and grow in this exciting field. Let's connect, learn together, and have fun coding! 💻✨
 
 
 ## 🌐 Socials:
